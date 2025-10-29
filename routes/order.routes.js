@@ -1,5 +1,6 @@
 const express = require('express');
-const OrderController = require('../controllers/Order.controller');
+// CORREÇÃO: Alterado de 'Order.controller' para 'Order_controller'
+const OrderController = require('../controllers/Order_controller');
 
 const router = express.Router();
 
