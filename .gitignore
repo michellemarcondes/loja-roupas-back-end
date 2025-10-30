@@ -1,9 +1,6 @@
 # Dependencies
 /node_modules
 
-# Environment Variables
-.env
-
 # Uploads (Opcional: Se não quiser versionar as imagens de teste)
 # /uploads
 
